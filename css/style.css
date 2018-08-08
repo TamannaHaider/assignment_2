@@ -1,0 +1,157 @@
+*{
+	margin: 0px;
+}
+body{
+background: url(../img/image.jpg);
+background-size:cover;
+
+}
+.container{
+width: 500px;
+margin: 10% auto;
+
+}
+.login-section{
+
+	background-color:#f8f8f800;
+	padding: 20px;
+	    background-color: transparent;
+    box-shadow: 0 4px 10px 4px rgba(19, 35, 47, 0.3);
+
+}
+.login-section img{
+	display: block;
+	margin: 0 auto;
+	height: 75px;
+	width: 75px;
+}
+.login-section h3{
+	text-align: center;
+	    padding: 20px 0px;
+	    color: white;
+
+	}
+	    .login-section h4{
+	    padding: 20px 0px;
+	    color: white;
+}
+.form-control{
+    height: 2px;
+    width: 80%;
+    padding: 20px;
+    border:  1px;
+    margin-bottom: 17px;
+    border-radius: 20px;
+        background-color: #f8f8f8c9;
+
+}
+.login-btn{
+background-color: #1584d06e;
+padding: 8px 30px;
+    font-size: 20px;
+    border: 1px;
+    margin: 0 auto;
+    display: block;
+    color: white;
+    border-radius: 33px;
+
+}
+.login-btn:hover{
+	cursor: pointer;
+	background-color: #07c1f9;
+	 transition: 0.5s;
+	
+}
+.login-section p{
+	color: white
+}
+.login-section a{
+	text-decoration: none;
+}
+.login-section a:hover{
+	color: blue;
+}
+.sign-up-section h2{
+	text-align: center;
+	    padding: 20px 0px;
+	    color: white;
+}
+.sign-up-btn{
+background-color: #1584d06e;
+padding: 8px 30px;
+    font-size: 20px;
+    border: 1px;
+    margin: 0 auto;
+    display: block;
+    color: white;
+    border-radius: 33px;
+
+}
+.sign-up-btn:hover{
+	cursor: pointer;
+	background-color: #07c1f9;
+	 transition: 0.5s;
+}
+.control{
+    height: 2px;
+    width: 90%;
+    padding: 20px;
+    border:  1px;
+    margin-bottom: 17px;
+    border-radius: 20px;
+        background-color: #f8f8f8;
+
+}
+.sign-up-section{
+
+	background-color:#f8f8f800;
+	padding: 20px;
+	    background-color: transparent;
+    box-shadow: 0 4px 10px 4px rgba(19, 35, 47, 0.3);
+
+}
+
+.sign-up-section h3{
+	color: white;
+}
+.request-btn{
+	background-color: #1584d06e;
+padding: 8px 30px;
+    font-size: 20px;
+    border: 1px;
+    margin: 0 auto;
+    display: block;
+    color: white;
+    border-radius: 33px;
+
+}
+.request-btn:hover{
+	cursor: pointer;
+	background-color: #07c1f9;
+	 transition: 0.5s;
+}
+.password h3{
+	color: white;
+	text-align: center;
+}
+.password h4{
+	color: white;
+	text-align: center;
+}
+.password img{
+	display: block;
+	margin: 0 auto;
+	height: 90px;
+	width: 90px;
+}
+.forgot{
+    height: 2px;
+    width: 90%;
+    padding: 20px;
+    border:  1px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+        background-color: #f8f8f891;
+
+}
